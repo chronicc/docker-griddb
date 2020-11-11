@@ -5,10 +5,6 @@ Ready to use GridDB docker image.
 
 ## Build Arguments
 
-### JAVA_VERSION
-
-Specify the version of the openJDK tools used to run GridDB. Defaults to `1.8.0`.
-
 ### GRIDDB_VERSION
 
 Specify the version of GridDB that is installed in the container. No default value.
