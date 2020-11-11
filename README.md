@@ -19,4 +19,5 @@ When you are running a rpm proxy or another form of package source (e.g. ftp), y
 
 ## License
 
-MIT
+* Docker Image: MIT
+* GridDB: APACHE 2.0
